@@ -3,7 +3,7 @@ Homework
 
 The entry point to run the code for the statistics requested in the homework assignement is in https://github.com/echenatwork-temp/p-capital/blob/master/src/main/java/portfolio/simulator/main/Main.java 
 
-Example output posts to the screen
+Example output
 ```
 Aggressive Portfolio - Normalized for Inflation
 50th Percentile: 249938
