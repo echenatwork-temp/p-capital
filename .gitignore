@@ -1,0 +1,6 @@
+# Start Custom
+
+# IDE folders and files
+*.iml
+.idea/**
+target/**
